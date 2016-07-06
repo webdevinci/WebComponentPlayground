@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fb00ba9-0672-450a-94fa-13b208e35929" name="Default" comment="- Reformatted directory structure&#10;- Added style-radio component">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="WebComponents.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -511,12 +509,12 @@
       <workItem from="1467041013085" duration="8000" />
       <workItem from="1467310462289" duration="5573000" />
       <workItem from="1467560641695" duration="8830000" />
-      <workItem from="1467845010469" duration="1655000" />
+      <workItem from="1467845010469" duration="1708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19582000" />
+    <option name="totallyTimeSpent" value="19635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="6" />

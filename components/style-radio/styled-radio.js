@@ -27,7 +27,7 @@ class StyledRadio extends HTMLElement {
     }
     set labelText (text) {
         this[_labelText] = text;
-        this.$label.append(text);
+        this.$label.innerHTML += text;
     }
 
     get value () {
